@@ -1,7 +1,5 @@
 # projeto-aplicado-amazon
 # Projeto Aplicado I: Análise de Marketplace Amazon (Vendas e Ratings)
-**Instituição:** Mackenzie | **Curso:** Ciência de Dados
-**Professor:** Ismar Frango | **Data da Entrega:** 22/03/2026
 
 ## 👥 Grupo
 * [Antonio Jose de Oliveira Silvc]
