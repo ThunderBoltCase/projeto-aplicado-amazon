@@ -20,5 +20,5 @@ Diferente de grandes bases externas, este projeto hospeda sua base de dados prin
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python
-* **Ambiente:** Ubuntu Linux / Jupyter Notebook
+* **Ambiente:** Linux / Jupyter Notebook
 * **Bibliotecas Planejadas:** Pandas, Matplotlib, Seaborn.
